@@ -6,3 +6,5 @@ this is work done by mohit
 
 
 dark mode fixed
+
+purple mode fixed 
